@@ -1,7 +1,7 @@
 # Electric Vehicle (EV) Sales & Operations Analytics
 
 <p align="center">
-  <img src="./docs/Ather_Dashboard_Business_Overview.png" alt="Ather EV Business Overview Dashboard" width="100%"/>
+  <img src="./Docs/Ather_Dashboard_Business_Overview.png" alt="Ather EV Business Overview Dashboard" width="100%"/>
 </p>
 
 ## Overview
@@ -14,7 +14,7 @@ Electric vehicle manufacturers face complex scaling bottlenecks—from managing 
 ## Executive Presentation
 A detailed 10-slide executive summary breakdown covering business context, data architecture, regional performance, and logistics analytics is available in the documentation folder:
 
-📁 **[View Presentation Deck (PDF)](./docs/Electric-Vehicle-Sales-and-Operations-Dashboard.pdf)**
+📁 **[View Presentation Deck (PDF)](./Docs/Electric-Vehicle-Sales-and-Operations-Dashboard.pdf)**
 
 ---
 
@@ -22,7 +22,7 @@ A detailed 10-slide executive summary breakdown covering business context, data 
 The data pipeline flows from transactional telemetry generation through database staging, Power Query ETL, star schema modeling, and interactive reporting.
 
 <p align="center">
-  <img src="./docs/Ather_Business_Workflow_Diagram.png" alt="Ather EV Data Pipeline Architecture" width="100%"/>
+  <img src="./Docs/Ather_Business_Workflow_Diagram.png" alt="Ather EV Data Pipeline Architecture" width="100%"/>
 </p>
 
 * **Data Ingestion (Python):** Scripted synthetic telemetry and transactional sales records, ensuring structural data integrity.
@@ -36,7 +36,7 @@ The data pipeline flows from transactional telemetry generation through database
 ## Data Model (Star Schema)
 
 <p align="center">
-  <img src="./docs/Ather_Data_Model_Star_Schema.png" alt="Ather EV Data Model Star Schema" width="100%"/>
+  <img src="./Docs/Ather_Data_Model_Star_Schema.png" alt="Ather EV Data Model Star Schema" width="100%"/>
 </p>
 
 An optimized Star Schema was built inside Power BI to handle multi-dimensional reporting efficiently:
