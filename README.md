@@ -57,6 +57,4 @@ An optimized Star Schema was built inside Power BI to handle multi-dimensional r
 *Data Analyst & Power BI Specialist*
 
 * Email: pushpalanalytics@gmail.com
-* Phone: +91 7796004314
 * LinkedIn: https://www.linkedin.com/in/pushpalanalytics/
-* Portfolio: https://github.com/pushpalanalytics
