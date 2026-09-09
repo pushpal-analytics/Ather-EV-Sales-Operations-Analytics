@@ -1,7 +1,7 @@
 # Ather Energy — Sales & Customer Lifecycle Analytics
 
 <p align="center">
-  <img src="./Docs/ather_energy_dashboard_overview.jpg" alt="Ather Energy Power BI Dashboard" width="100%"/>
+  <img src="./Docs/ather_energy_dashboard_overview.png" alt="Ather Energy Power BI Dashboard" width="100%"/>
 </p>
 
 EV manufacturers lose revenue daily to poor delivery visibility, untracked financing dependencies, and uneven showroom performance. Ather Energy was built to bring that chaos into a single, decision-ready view.
@@ -19,19 +19,19 @@ This project unifies sales, profitability, customer behavior, and delivery timel
 The foundation is a **Star Schema** — one fact table (`Fact_Sales_Master`) linked to dimensions for product, customer, city, showroom, payment, and date. This structure keeps reporting fast, consistent, and scalable.
 
 <p align="center">
-  <img src="./Docs/ather_energy_star_schema.jpg" alt="Star Schema Data Model" width="100%"/>
+  <img src="./Docs/ather_energy_star_schema.png" alt="Star Schema Data Model" width="100%"/>
 </p>
 
 To get there, I mapped the entire customer journey — from test ride to delivery — and used that understanding to design the data pipeline and metrics that matter.
 
 <p align="center">
-  <img src="./Docs/ather_energy_business_flow.jpg" alt="EV Sales Business Flow" width="100%"/>
+  <img src="./Docs/ather_energy_business_flow.png" alt="EV Sales Business Flow" width="100%"/>
 </p>
 
 The project was structured around the questions teams actually ask, not just the tools available.
 
 <p align="center">
-  <img src="./Docs/ather_energy_approach_flow.jpg" alt="Project Approach" width="100%"/>
+  <img src="./Docs/ather_energy_approach_flow.png" alt="Project Approach" width="100%"/>
 </p>
 
 ---
